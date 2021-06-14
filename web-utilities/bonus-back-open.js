@@ -1,0 +1,1 @@
+// Open all bonus packs in My.Games Armored Warfare inventory screen.

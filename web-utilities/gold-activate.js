@@ -18,11 +18,11 @@
         const delay = time;
         // Run the clicks on a delay in order to not overload the server.
         setTimeout(() => {
-          console.log(new Date().toISOString() + ' Click ' + previousElementHtml);
+          console.log(`${new Date().toISOString()} Click ${previousElementHtml}`)
           element.click();
         }, delay);
       }
     }
   });
-  console.log('Total Gold: ' + goldTotal);
+  console.log(`Total Gold: ${goldTotal}`);
 })();
