@@ -1,5 +1,6 @@
 // Activate all gold in My.Games Armored Warfare inventory screen.
 (() => {
+  "use strict";
   let time = 0;
   const interval = 500;
   const goldText = ' gold';
