@@ -8,7 +8,7 @@
 4. Copy the javascript above and do one of these:  
    - Go to the "Elements" tab, there is a console in the bottom with a cursor ">".
    - Go to the "Console" tab, and find the cursor ">".
-5. Paste the javascript where that cursor is and press enter.
+5. Paste the javascript [(Javascript is here)](/web-utilities/gold-activate.js) where that cursor is and press enter.
 6. The total gold activated will be listed in the console and then the gold will be activated.
 
 ![Mass Gold Activation Dev Console](./resources/images/mass_gold_unlock_01.jpg)
